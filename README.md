@@ -6,16 +6,15 @@ useful.
 
 ## Usage
 
-```puppet
-boxen::example { 'best example ever':
-  salutation => 'fam'
-}
+```
+include gitflow
+
 ```
 
 ## Required Puppet Modules
 
 * `boxen`
-* `anything-else`
+* `homebrew`
 
 ## Development
 
